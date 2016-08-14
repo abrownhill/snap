@@ -1,0 +1,60 @@
+body {
+	text-align:center;
+  font-family:Helvetica;
+  background:LightBlue;
+}
+
+canvas {
+  width:100%;
+  height:42%;
+  background:cadetblue;
+  border-radius:15px;
+  /* background-image:url(https://upload.wikimedia.org/wikipedia/commons/f/f3/PeterRabbit7.jpg); */
+  background-size:auto;
+  background-position:center;
+  
+}
+
+html, body, section {
+  height:100%;
+}
+
+h1 {
+  background:yellow;
+  padding:2%;
+  margin:2%;
+  border:2px solid black;
+  border-radius:40px;
+}
+
+p {
+  width:40%;
+  float:left;
+  padding:2%;
+  margin:2%;
+  border:2px solid black;
+  border-radius:40px;
+  background:yellow;
+  display: none;
+}
+
+span#preload-01 {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/f/f3/PeterRabbit7.jpg");
+}
+span#preload-02 {
+  background: url("https://pixabay.com/static/uploads/photo/2015/01/30/10/49/raisins-617416_960_720.jpg");
+}
+span#preload-03 {
+  background: url("https://pixabay.com/static/uploads/photo/2015/08/04/18/40/baby-875085_960_720.jpg");
+}
+span#preload-04 {
+  background: url("http://clipartion.com/wp-content/uploads/2015/11/banana-clipart-free-clip-art-images.jpg");
+}
+span#preload-05 {
+  background: url("http://9417-presscdn-0-52.pagely.netdna-cdn.com/wp-content/uploads/2013/07/how-to-clean-bath-toys-rubber-duck.jpg");
+}
+
+
+
+
+
